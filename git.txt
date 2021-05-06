@@ -10,3 +10,10 @@ git add .
 git status
 //to commit changs(confirming the changes)
 git commit -m (name of commit)first_commit
+//to push on cloud
+git push origin (repo name)
+//branching
+git branch (name)
+//to checkout on the branch
+git branch (name)
+//to push branchgit push origin (branch name)
