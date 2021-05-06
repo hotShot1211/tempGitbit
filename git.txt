@@ -17,6 +17,21 @@ git branch (name)
 +
 //to checkout on the branch
 git branch (name)
+=
+git checkout -b (name)
+//merging branch
+go to master git merge (branch name)
+//delete branch git push origin --delete (branch name)
+//checking log
+giy log
+//quiting log
+q
+//hard delete
+git reset --hard HEAD~1
+//soft deelete
+git reset --soft HEAD~1
+//
+
 
 = git checkout -b feature1
 //to push branch
