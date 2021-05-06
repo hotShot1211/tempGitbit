@@ -1,0 +1,12 @@
+//to convert normal folder into git folder
+git init
+// to link
+git remote add origin + link
+//to fetch
+git pull origin (repo name)
+//to identify changes
+git add .
+//to check status of changes
+git status
+//to commit changs(confirming the changes)
+git commit -m (name of commit)first_commit
