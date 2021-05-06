@@ -14,6 +14,10 @@ git commit -m (name of commit)first_commit
 git push origin (repo name)
 //branching
 git branch (name)
++
 //to checkout on the branch
 git branch (name)
-//to push branchgit push origin (branch name)
+
+= git checkout -b feature1
+//to push branch
+git push origin (branch name)
