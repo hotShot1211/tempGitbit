@@ -36,3 +36,7 @@ git reset --soft HEAD~1
 = git checkout -b feature1
 //to push branch
 git push origin (branch name)
+//stashing
+git stash
+//geting out of stashing
+git stash pop
